@@ -12,3 +12,10 @@ Descripción:<br>
 - Al usuario le llegan correos de notificación para saber el avance de su proceso.
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+[Toma de requerimientos](./1.-requerimientos.md)
+    -[Buyer persona](./2.-buyerPersona.md)
+	- [Publico objetivo](./3.-publicoObjetivo.md)
+  -[Muckups](./3.-muckups.md)
+	- [Wireframe UX](./4.-wireframe.md)
+	- [UI](./5.-ui.md)
